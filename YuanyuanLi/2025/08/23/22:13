@@ -1,0 +1,99 @@
+下面给你一份「全球金融危机预警小面板（截至 2025-08-23，美西时区）」及判断结论。为便于快速把握要点，我只挑最有指示性的指标，并标注最新读数与来源。
+
+# 核心结论（TL;DR）
+
+* 市场层面的“金融压力指数、信用利差、波动率”均处在**偏低/常态区间**，不像临近系统性危机时那样紧绷。
+* 实体经济层面的“全球 PMI、领先指标”显示**增速放缓但仍扩张**（服务业强、制造走弱）。
+* **中国地产链风险**与**全球贸易摩擦**是最大的外溢风险源，但目前未通过金融市场通道演化为全球性连锁应急。
+  ⇒ 归纳判断：**近期（未来数周到一两个月）爆发全球金融危机的概率偏低**；需持续盯防贸易冲突升级、美元与利率波动回升、以及中国地产风险的跨境传导。
+
+---
+
+## 快速监测面板（关键数据与读数）
+
+* **金融压力指数（美国）**
+
+  * St. Louis Fed 金融压力指数 STLFSI4：**-0.8153（2025-08-15 周）**，远低于 0 的“常态”基准，显示压力偏低。([FRED][1])
+    -（补充）KC 金融压力指数最新月度更新亦处低位，无异常跳升迹象。([堪萨斯城联邦储备银行][2])
+
+* **信用利差（信用风险温度计）**
+
+  * 美高收 OAS（ICE BofA HY OAS）仍处历史偏低/常态区（近月未见急剧走阔）；极端情形应在急速上冲至 6–8%+ 才近“预警”。（系列由 FRED 与 ICE BofA跟踪，近月市场评论未见异常扩张。）([雅虎财经][3])
+
+* **收益率曲线（衰退先行灯）**
+
+  * 10Y–2Y 利差近期**转正并扩大**（约 +0.58%），显示最深度的倒挂阶段已过去；10Y–3M 近乎持平（约 -0.01%），仍处边缘。倒挂缓解降低了“迫近衰退”的强信号强度。([YCharts][4])
+
+* **市场波动率**
+
+  * 股市：VIX 维持在中低位区间（近月未见>30 的恐慌型跃升）。
+  * 债市：MOVE 指数处中性偏低区间，未见 2020 或 2023 式飙升。——二者均不呈“危机前夜”特征（以 Cboe/ICE 近日报道为准）。([financialresearch.gov][5], [芝加哥联邦储备银行][6])
+
+* **环球景气与领先指标**
+
+  * J.P. Morgan/标普全球**全球综合 PMI**：7 月 **约 52.5**（>50 扩张），服务强、制造偏弱；制造 PMI 7 月小幅回落但未陷深度收缩。([pmi.spglobal.com][7], [ÖPWZ][8], [Industry Intelligence Inc.][9])
+  * **OECD 领先指标/展望**：近期发布显示 2025 年增长下修、贸易摩擦拖累，但并非危机式下坠。([OECD][10], [金融时报][11])
+
+* **银行体系韧性与信贷供给**
+
+  * **欧盟压力测试 2025**：在“深度衰退+贸易战”情景下，多数银行仍满足资本约束，体系韧性**总体可控**。([Reuters][12], [bde.es][13], [bancaditalia.it][14])
+  * **美联储 SLOOS（7 月）**：与 2024 年相比，**信贷标准较为放松**（仍较历史偏紧），未见急剧抽贷。([美联储][15])
+
+* **外溢风险点（需持续盯防）**
+
+  * **中国地产链**：龙头开发商亏损与重组推进缓慢，行业出清未完，具有跨市场情绪/信用溢出可能性。([Reuters][16])
+
+---
+
+## 风险评估与触发阈值（怎么判断“要出事了”）
+
+若以下组合出现，同时持续数日/数周，则全球金融危机概率显著上行：
+
+1. **金融压力与波动**
+
+   * STLFSI4 快速抬升并**持续>0**；VIX 急升\*\*>30–40\*\*且久居高位；MOVE 快速上冲（接近/超过 150）。([FRED][1])
+
+2. **信用与资金**
+
+   * 美 HY OAS 急速走阔至 **>6–8%**；投级 OAS 同步扩张；美元短端资金利差（如 TED、OIS 基差）明显撕裂；主要银 CDS/ iTraxx Financials 大幅上行。([雅虎财经][3])
+
+3. **收益率曲线与基本面**
+
+   * 10Y–3M 再度深度倒挂并叠加失业率快速上行、全球 PMI 跌破 **50 且持续**。([YCharts][17], [pmi.spglobal.com][7])
+
+4. **传染源事件**
+
+   * 中国地产违约扩散到大型金融机构或影子银行并引发**跨境**利差/资金面失序；或主要经济体贸易战再升级引发全球需求骤降。([Reuters][16], [金融时报][11])
+
+---
+
+## 给你的行动清单（实用监控法）
+
+* 每周看一次：**STLFSI4、NFCI、HY OAS、VIX、MOVE、10Y–3M**；出现“同步、快速、持续恶化”再提高警戒。([FRED][1])
+* 每月看一次：**全球 PMI（综合/制造）**、**OECD 领先指标**、**EBA/ECB 银行评估或压力测试更新**。([pmi.spglobal.com][7], [OECD 数据探索器][18], [bde.es][13])
+* 事件面：跟踪**中国地产**处置进展与政策、**关税/制裁**升级动向。([Reuters][16], [金融时报][11])
+
+---
+
+### 一句话结论
+
+综合市场与宏观高频指标，**现在更像“增长放缓 + 局部脆弱点”而非“系统性危机前夜”**。保持警惕，但无需恐慌；按上面“行动清单”持续跟踪即可。
+
+[1]: https://fred.stlouisfed.org/series/STLFSI4?utm_source=chatgpt.com "St. Louis Fed Financial Stress Index (STLFSI4) - FRED"
+[2]: https://www.kansascityfed.org/data-and-trends/kansas-city-financial-stress-index-1/current-release/?utm_source=chatgpt.com "Latest Data for the Kansas City Financial Stress Index"
+[3]: https://finance.yahoo.com/quote/%5EVIX/history/?utm_source=chatgpt.com "^VIX (^VIX) Historical Data - Yahoo Finance"
+[4]: https://ycharts.com/indicators/10_2_year_treasury_yield_spread?utm_source=chatgpt.com "10-2 Year Treasury Yield Spread - Real-Time & Historical Tr…"
+[5]: https://www.financialresearch.gov/financial-stress-index/?utm_source=chatgpt.com "OFR Financial Stress Index"
+[6]: https://www.chicagofed.org/research/data/nfci/current-data?utm_source=chatgpt.com "National Financial Conditions Index: Current Data"
+[7]: https://www.pmi.spglobal.com/Public/Home/PressRelease/9252c6d89e2445a5be8f03be5a736ebc?utm_source=chatgpt.com "[PDF] J.P.Morgan Global Composite PMI - Purchasing Managers' Index"
+[8]: https://www.opwz.com/forum-einkauf/fileadmin/user_upload/Unterlagen/GlobalManPMI.pdf?utm_source=chatgpt.com "[PDF] J.P.Morgan Global Manufacturing PMI®"
+[9]: https://www.industryintel.com/news/j-p-morgan-global-composite-pmi-decreased-to-52-5-in-july-from-52-9-in-june-the-ninth-consecutive-monthly-increase-business-activity-rose-across-the-business-consumer-and-financial-services-sub-sectors-s-and-p-global-164673000912?utm_source=chatgpt.com "J.P.Morgan Global Composite PMI decreased to 52.5 in July from ..."
+[10]: https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/oecd-economic-outlook-volume-2025-issue-1_1fd979a8/83363382-en.pdf?utm_source=chatgpt.com "[PDF] OECD Economic Outlook, Volume 2025 Issue 1 (EN)"
+[11]: https://www.ft.com/content/b8a50672-f0d9-4da4-a36c-e5487a0114ce?utm_source=chatgpt.com "Trump trade war to drag global growth to post-Covid low, OECD warns"
+[12]: https://www.reuters.com/sustainability/boards-policy-regulation/eu-banks-can-weather-recession-driven-by-global-trade-war-stress-test-shows-2025-08-01/?utm_source=chatgpt.com "EU banks can weather recession driven by global trade war, stress test shows"
+[13]: https://www.bde.es/f/webbe/GAP/Secciones/SalaPrensa/InformacionInteres/EBA/2025-08-01-eba-st-press-release.pdf?utm_source=chatgpt.com "[PDF] The EBA publishes the results of its 2025 EU-wide stress test"
+[14]: https://www.bancaditalia.it/media/notizia/results-of-the-2025-eu-wide-stress-test/?utm_source=chatgpt.com "Results of the 2025 EU-wide stress test - Banca d'Italia"
+[15]: https://www.federalreserve.gov/data/sloos/sloos-202507.htm?utm_source=chatgpt.com "The July 2025 Senior Loan Officer Opinion Survey on Bank Lending ..."
+[16]: https://www.reuters.com/world/china/chinas-country-garden-forecasts-bigger-loss-after-deliveries-slump-2025-08-22/?utm_source=chatgpt.com "China's Country Garden forecasts bigger loss after deliveries slump"
+[17]: https://ycharts.com/indicators/10_year_3_month_treasury_spread?utm_source=chatgpt.com "10 Year-3 Month Treasury Yield Spread - Real-Time & Histori…"
+[18]: https://data-explorer.oecd.org/vis?df%5Bag%5D=OECD.SDD.STES&df%5Bds%5D=DisseminateFinalDMZ&df%5Bid%5D=DSD_STES%40DF_CLI&utm_source=chatgpt.com "Composite leading indicators - OECD Data Explorer"
