@@ -1,0 +1,47 @@
+下面给你一份「快评式监测面板 + 结论」——都用到了最新权威来源。
+
+# 核心监测面板（截至 2025-08-24）
+
+* **美国收益率曲线（10年-2年）**：已转正并继续陡峭化，最新 **+0.58pct（8/22）**。曲线从深度倒挂回到正值，通常意味着衰退风险较前期缓和，而非正在恶化。 ([圣路易斯联邦储备银行][1])
+* **信用利差（美高收 OAS）**：**\~2.95%（8/21）**，接近近年低位区间，未见“恐慌式”走阔。若逼近5%+才是明显预警。 ([圣路易斯联邦储备银行][2])
+* **金融压力指数（STLFSI4）**：**-0.82（周度，至 8/15）**，显著低于零（压力线），说明市场整体“松弛”，无系统性紧张信号。 ([圣路易斯联邦储备银行][3], [经济网][4])
+* **实体动能（PMI）**：8月发达经济体\*\*“抢先值”普遍回升\*\*，美国综合PMI升至8个月高位，显示增长仍在扩张区间。 ([pmi.spglobal.com][5], [S\&P Global][6])
+* **全球稳定性评估（IMF）**：4月《金融稳定报告》指出在更紧的金融条件与地缘不确定性下，**全球稳定性风险上升**，要求提高韧性与应对政策储备——属于“结构性/中期”风险提醒，而非“即刻危机”判定。 ([IMF][7])
+* **外生脆弱点**
+
+  * **中国房地产**：大型房企（如碧桂园）仍在重组与亏损出清，行业调整未完全结束——属于**持续性尾部风险**。 ([Reuters][8])
+  * **日本政策转向**：日本央行今年已加息并暗示后续可能再动，**日债收益率上行**，若波动扩大，可能外溢至全球利率与外汇市场。 ([Reuters][9], [ABN AMRO Bank][10], [Trading Economics][11])
+
+# 判读（结论）
+
+* 以**高频市场信号**为准（曲线、利差、压力指数），**当前并未出现“近期（未来1–3个月）全球金融危机”的典型前兆**：
+
+  * 曲线转正、利差低位、金融压力为负值，三者同向支持“无迫近型系统性风险”。 ([圣路易斯联邦储备银行][1])
+* 但**中期风险**不容忽视：
+
+  * 中国地产出清、发达经济体利率高位的二次效应、日本政策正常化引发的全球利率波动、地缘政治与贸易摩擦，都可能在**半年—一年**维度内触发阶段性压力或局部事件。 ([IMF][7], [Reuters][9])
+
+# 接下来1–2个月的重点观察位
+
+1. **信用利差**：若美高收益OAS\*\*快速走阔至≥4%\*\*且持续，将显著提高危机警戒级别。 ([圣路易斯联邦储备银行][2])
+2. **美元流动性与金融压力**：STLFSI4若**重返正值并继续上行**，代表压力面全面抬升。 ([圣路易斯联邦储备银行][3])
+3. **中国地产政策与交付数据**：重组落地进度、销售回暖与否。 ([Reuters][12])
+4. **日本与主要央行沟通**：若日本再度加息或日债波动显著放大，关注其对全球债市与外汇的“放大器”效应。 ([Reuters][9])
+5. **PMI/就业/盈利**：若PMI自扩张区间快速跌回<50并同步出现盈利预警，再行上调风险评估。 ([pmi.spglobal.com][5], [S\&P Global][6])
+
+---
+
+**一句话结论**：**短期不具备“全球金融危机”触发的典型市场征兆**；基线情形仍是“**温和放缓 + 区域性风险事件**”。但如果出现“信用利差急速走阔 + 金融压力转正并走高 + PMI跌破荣枯”的**三重共振**，再调整为高警戒。
+
+[1]: https://fred.stlouisfed.org/series/T10Y2Y "10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity (T10Y2Y) | FRED | St. Louis Fed"
+[2]: https://fred.stlouisfed.org/series/BAMLH0A0HYM2?utm_source=chatgpt.com "ICE BofA US High Yield Index Option-Adjusted Spread - FRED"
+[3]: https://fred.stlouisfed.org/series/STLFSI4?utm_source=chatgpt.com "St. Louis Fed Financial Stress Index (STLFSI4) - FRED"
+[4]: https://www.economy.com/economicview/indicator/usa_fsi/7E43EC64-9BCD-45F2-9ED1-BC389D7BA8F3/United-States-St-Louis-Fed-Financial-Stress-Index?utm_source=chatgpt.com "St. Louis Fed Financial Stress Index : Moody's Analytics Economic ..."
+[5]: https://www.pmi.spglobal.com/Public/Home/PressRelease/970a92b794eb4408b7b0a3df3073d275?utm_source=chatgpt.com "[PDF] S&P Global US Flash PMI - Growth and hiring accelerate in August ..."
+[6]: https://www.spglobal.com/marketintelligence/en/mi/research-analysis/flash-pmis-show-broadbased-developed-world-upturn-in-august-Aug25.html?utm_source=chatgpt.com "Flash PMIs show broad-based developed world upturn in August"
+[7]: https://www.imf.org/en/Publications/GFSR/Issues/2025/04/22/global-financial-stability-report-april-2025?utm_source=chatgpt.com "Global Financial Stability Report, April 2025: Enhancing Resilience ..."
+[8]: https://www.reuters.com/world/china/chinas-country-garden-forecasts-bigger-loss-after-deliveries-slump-2025-08-22/?utm_source=chatgpt.com "China's Country Garden forecasts bigger loss after deliveries slump"
+[9]: https://www.reuters.com/markets/asia/bojs-ueda-expects-tightening-job-market-push-up-wages-2025-08-23/?utm_source=chatgpt.com "BOJ's Ueda expects tightening job market to push up wages"
+[10]: https://www.abnamro.com/research/en/our-research/japan-the-land-of-the-rising-yields?utm_source=chatgpt.com "Japan: The Land of the Rising Yields | ABN AMRO"
+[11]: https://tradingeconomics.com/japan/government-bond-yield?utm_source=chatgpt.com "Japan 10 Year Government Bond Yield - Quote - Trading Economics"
+[12]: https://www.reuters.com/markets/asia/country-garden-wins-bank-creditor-groups-support-offshore-debt-overhaul-2025-08-18/?utm_source=chatgpt.com "Country Garden wins bank creditor group's support for offshore debt overhaul"
